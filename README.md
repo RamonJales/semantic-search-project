@@ -1,6 +1,6 @@
 # Busca Semântica com Elastic Search
 
-Este projeto é uma pequena aplicação web que implementa busca semântica.
+Este projeto é uma pequena aplicação web que implementa busca semântica com o banco de dados *elastic search*.
 
 ![imagem](./image/app-web.png)
 
